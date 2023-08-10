@@ -1,0 +1,11 @@
+# What is TestNG ?
+
+    * TestNG is a testing framework created for specific to Java Language...
+    * We can perform --> Grouping, Parallel Execution, Listeners, Data Provider etc.,
+    * TestNG is inspired by competitors like JUnit, NUnit and providing additional features what makes TestNG powerful.
+    * NG stands for Next Generation...
+    *
+
+-----------------------------------------------------------------------------------------------------------------
+
+#
